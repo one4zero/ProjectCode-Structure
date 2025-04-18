@@ -7,7 +7,7 @@ pip install tk
 
 Запуск:
 ```
-python project_viewer.py
+python ProjectCode-Structure.py
 ```
 
 Функции:
